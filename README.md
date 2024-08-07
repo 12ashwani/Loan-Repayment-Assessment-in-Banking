@@ -1,5 +1,5 @@
 ## Loan Repayment Assessment in Banking
-KnowledgeHut AI Hackathon Report
+ Hackathon Report
 
 ### Dataset
 The dataset consists of two files:
