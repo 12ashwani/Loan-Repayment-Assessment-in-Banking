@@ -79,3 +79,7 @@ This report provides a comprehensive approach to building a machine learning mod
 - git branch -M main
 - git remote add origin https://github.com/12ashwani/Loan-Repayment-Assessment-in-Banking.git
 - git push -u origin main
+## for Know about your environments 
+- conda info --envs
+- conda activate 'envs name'
+- conda deactivate 

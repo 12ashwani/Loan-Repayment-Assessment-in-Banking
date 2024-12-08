@@ -1,7 +1,7 @@
 numpy
 pandas
 python-dotenv
-mysql-connector-python
+# mysql-connector-python
 pymysql
 scikit-learn
 seaborn
